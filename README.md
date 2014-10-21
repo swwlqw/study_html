@@ -1,4 +1,5 @@
-study_html
+project name: study_html
+author: sww
+date: 2014-10-21
 ==========
-
-for study html
+just for study html
