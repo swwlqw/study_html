@@ -1,0 +1,7 @@
+#!/bin/sh
+#author sww
+
+git add *
+git commit -m "add ${1}"
+git push
+
